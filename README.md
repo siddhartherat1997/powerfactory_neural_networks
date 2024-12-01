@@ -35,7 +35,7 @@ def initialize_opc(self, param=None):
     comopc.Execute()
 
 ```
-- Load the pfd file(exported Powerfactory Simulation file) in powerfactory before using the code, make sure to change the powerfactory pathn in the `main.py` file.
+- Load the pfd file(exported Powerfactory Simulation file) in powerfactory before using the code, make sure to change the powerfactory path in the `main.py` file.
 - Pull/Download the respository.
-- Load the trained `.pth` (Trained Neural Network Model File) 
+- Load the trained `.pth` (Trained Neural Network Model File) .
 - Run the `runner.py` file to start the simulation.
