@@ -15,6 +15,7 @@ This project currently runs on the following versions of Python and libraries:
 - **Pandas**: 2.2.2
 - **PyTorch**: 2.2.0+cu121
 - **Matplotlib**: 3.9.2
+- **Powfacpy**:0.2.2
 
 # How to Run The Simulation
 
